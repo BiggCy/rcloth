@@ -27,7 +27,7 @@ To set up the Rclothe website locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Mdwij/rclothe.git
+   git clone https://github.com/BiggCy/rclothe.git
    ```
 
 2. Navigate to the project directory:
